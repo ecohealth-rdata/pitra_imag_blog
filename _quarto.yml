@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+    title: "Meu Blog"
+    description: "Blog em Português sobre Imagiologia Médica Geral"
+    open-graph: true
+    navbar:
+      left:
+        - icon: house-fill
+          text: "Home"
+          file: index.qmd
+        - text: "Blog"
+          file: blog.qmd
+      right:
+        - text: "Sobre mim"
+          file: about.qmd
+          menu:
+            - text: Source Code
+              href: https://code.com
+            - text: Report a Bug
+              href: https://bugs.com
+        - icon: github
+          href: https://github.com/
+        - icon: twitter
+          href: https://twitter.com
+        - icon: rss
+          href: index.xml # lien vers le flux RSS
+rss: true
+format:
+  html:
+    theme:
+      light: quartz
+      dark: darkly
+
+

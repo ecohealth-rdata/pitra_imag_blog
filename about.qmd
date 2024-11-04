@@ -1,0 +1,54 @@
+---
+title: "Sobre mim"
+image: pitrdr.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+Sobre mim
+
+Sou Médica Interna em Imagiologia, com conhecimentos e competências para abordar pacientes com diversas patologias e realizar técnicas de diagnóstico e tratamento, tanto de menor quanto de maior complexidade, seja em caráter eletivo ou de urgência, em regime de ambulatório ou hospitalar.
+
+Atualmente, estou no Departamento de Imagiologia, onde realizo a maior parte da minha formação, participando em reuniões científicas, cursos, comunicações e publicações, além de outras atividades de valorização profissional.
+
+
+
+Meus objectivos de especialização em Imagiologia são:
+
+* Aperfeiçoar Habilidades Diagnósticas: Desenvolver competências avançadas na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias. 
+* Dominar Tecnologias de Imagem: Aprender a utilizar equipamentos de última geração para obter imagens médicas de alta qualidade. 
+* Conduzir Pesquisas Clínicas: Realizar pesquisas para melhorar as técnicas de imagem e contribuir para o avanço da medicina diagnóstica. 
+* Colaborar em Equipes Multidisciplinares: Trabalhar com outros profissionais de saúde para fornecer diagnósticos precisos e planejar tratamentos eficazes. 
+* Aprimorar Técnicas Intervencionistas: Desenvolver habilidades em procedimentos intervencionistas guiados por imagem, como biópsias e drenagens. 
+* Educação e Ensino: Participar na formação de novos médicos e técnicos, transmitindo conhecimentos e experiências adquiridos. 
+* Publicações e Comunicações Científicas: Publicar estudos e participar de congressos para compartilhar descobertas e inovações. 
+* Contribuir para a Saúde Pública
+
+
+💼 Objectivos
+
+Os objectivos desse blog são focados na saúde, especialemente em Imagiologia:
+
+* Discussão sobre as diagnósticas para desenvolver competências na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias. 
+* Conversar sobre as Tecnologias de Imagem, equipamentos de última geração.
+* Informar-se sobre publicações rescentes das pesquisas na saúde e especialement na imagiologia. 
+
+Estou aberto a trabalhos de consultoria e outras formas de colaboração.
+Se quiser discutir, envie-me um e-mail para mairapitra\@gmail.com. 
+
+Sou funcionária angolana, trabalhando no Hospital Geral de Cabinda. Anteriormente, colaborei na Clínica Maimona & Filhos.
+
+Meu trabalho inclui o diagnóstico de doenças por meio de imagens, combinando minhas habilidades clínicas de médica geral. Analiso dados de imagens dos pacientes utilizando diversas ferramentas de software.
+
+Neste site, você encontrará minha lista de publicações, apresentações, meu CV e um blog técnico.

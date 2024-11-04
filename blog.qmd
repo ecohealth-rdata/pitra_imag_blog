@@ -1,0 +1,52 @@
+---
+title: "Posts"
+subtitle: "Imagiologia - Data Análises - Medecina geral"
+title-block-banner: true
+toc: true
+aliases: ["blog/"]
+format:
+  html:
+    anchor-sections: true
+page-layout: full
+listing:
+  date-format: "DDD/MMM/YYY"
+  feed: false
+  filter-ui: false
+  type: default
+  sort-ui: false
+  sort: "date desc"
+  categories: true
+  fields: [date, title, news, posts]
+  id: blog-listings
+  contents: "posts/*/index.qmd"
+#title-block-banner: "#113946"
+#title-block-banner-color: body
+search: true
+grid:
+    #sidebar-width: 300px
+    body-width: 900px
+    #margin-width: auto      # Utilisez "auto" pour centrer les marges
+    #gutter-width: 1.5rem    # Espacement entre les colonnes
+---
+
+::: {.profile-header layout="[21,79]"}
+![](maira_pitra.png){.profile-pic width="154"}
+
+Olá! Eu sou o Dra. Filomena D.F.J Pitra. Obrigada por tirar um tempo para visitar meu blog! Espero que você aproveite a leitura e encontre conteúdos inspiradores e interessantes aqui.
+Para mais informações sobre mim, siga este link: Sobre mim
+:::
+
+📮 Artigos de Blog
+
+
+::: {#blog-listings} :::
+
+
+
+
+📬 Inscreva-se
+
+    Subscribe here
+Bem-vindo ao meu blog! Você pode se inscrever no nosso [RSS](rss.xml) ou insira seu endereço de e-mail abaixo.
+
+💬 Você também pode comentar os artigos diretamente no blog [GitHub Discussions](https://github.com/Babbymed/bbz.dev/issues) !
