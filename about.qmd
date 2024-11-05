@@ -13,7 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
+grid:
+    body-width: 1000px
 ---
 
 Sobre mim
