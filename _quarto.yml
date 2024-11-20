@@ -3,16 +3,23 @@ project:
   output-dir: "docs"
 
 website:
-    title: "Meu Blog"
-    description: "Blog em Português sobre Imagiologia Médica Geral"
+    title: "Tchiowa imagiologia 7/24"
+    description: "Blog sobre Imagiologia Médica Geral de Cabinda em Angola"
     open-graph: true
+    twitter-card: true
+    page-navigation: true
+    back-to-top-navigation: true
     navbar:
+      search: true
+      #logo:  "HGC_logotipo.png"  #assets/images/HGC_logotipo.png
       left:
         - icon: house-fill
           text: "Home"
           file: index.qmd
         - text: "Blog"
           file: blog.qmd
+        - text: "Publicações"
+          file: publication.qmd
       right:
         - text: "Sobre mim"
           file: about.qmd
@@ -33,7 +40,7 @@ format:
     theme:
       light: quartz
       dark: darkly
-
-
-
+    lang: pt
+    date-format: 'dddd[, the] Do [of] MMMM, YYYY'
+    highlight-style: github-dark
 

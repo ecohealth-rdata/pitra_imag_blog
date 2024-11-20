@@ -1,0 +1,60 @@
+- abstract: Excessive fetal growth is associated with DNA methylation
+alterations in human hematopoietic stem and progenitor cells (HSPC),
+but their functional impact remains elusive. We implemented an
+integrative analysis combining single-cell epigenomics, single-cell
+transcriptomics, and in vitro analyses to functionally link DNA
+methylation changes to putative alterations of HSPC functions. We
+showed in hematopoietic stem cells (HSC) from large for gestational
+age neonates that both DNA hypermethylation and chromatin
+rearrangements target a specific network of transcription factors
+known to sustain stem cell quiescence. In parallel, we found a
+decreased expression of key genes regulating HSC differentiation
+including EGR1, KLF2, SOCS3, and JUNB. Our functional analyses
+showed that this epigenetic programming was associated with a
+decreased ability for HSCs to remain quiescent. Taken together, our
+multimodal approach using single-cell (epi)genomics showed that
+human fetal overgrowth affects hematopoietic stem cells' quiescence
+    signaling via epigenetic programming.
+  accessed: 2023-03-04
+  author:
+  - family: Pelletier
+    given: Alexandre
+  - family: Carrier
+    given: Arnaud
+  - family: Zhao
+    given: Yongmei
+  container-title: International Journal of Molecular Sciences
+  doi: 10.3390/ijms23137323
+  id: pelletier_epigenetic_2022
+  issn: 1422-0067
+  issue: 13
+  issued: 2022-06
+  page: 7323
+  title: Epigenetic and Transcriptomic Programming of HSC Quiescence
+    Signaling in Large for Gestational Age Neonates
+  type: article-journal
+  url: "https://www.mdpi.com/1422-0067/23/13/7323"
+  volume: 23
+  journal-title: '*International Journal of Molecular Sciences*'
+  date: 2022-06
+  path: https://doi.org/10.3390/ijms23137323
+  position: '4/12'
+  first: '&emsp;&emsp;&emsp;'
+- accessed: 2023-03-04
+  author:
+  - family: Mahajan
+    given: Anubha
+  - family: Spracklen
+    given: Cassandra N.
+  - family: Zhang
+    given: Weihua
+  - family: Ng
+    given: Maggie C. Y.
+container-title: Nature Genetics
+doi: 10.1038/s41588-022-01058-3
+id: mahajan_multi-ancestry_2022
+issn: 1061-4036, 1546-1718
+issue: 5
+issued: 2022-05
+page: 560-572
+

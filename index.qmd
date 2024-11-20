@@ -25,23 +25,22 @@ grid:
     body-width: 900px
     #margin-width: auto      # Utilisez "auto" pour centrer les marges
     #gutter-width: 1.5rem    # Espacement entre les colonnes
-
 ---
 
+------------------------------------------------------------------------
 
-👩‍⚕️   Sou **Médica Interna em Imagiologia**, com conhecimentos e competências para abordar pacientes com diversas patologias e realizar técnicas de diagnóstico.
- 
+------------------------------------------------------------------------
+
+👩‍⚕️   Sou **Médica Interna em Imagiologia**, com conhecimentos e competências para abordar pacientes com diversas patologias e realizar técnicas de diagnóstico de Imagiologia médica.
+
 Atualmente, estou no Departamento de Imagiologia, onde realizo a maior parte da minha formação, participando em reuniões científicas, cursos, comunicações e publicações, além de outras atividades de valorização profissional.
 
-📌**Meus objectivos de especialização em Imagiologia são**:
-
--   Desenvolver competências avançadas na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias. Utilizando equipamentos de tecnologia de última geração para obter imagens médicas de alta qualidade.
--   Conduzir Pesquisas Clínicas a traves as técnicas de imagem e contribuir para o avanço da medicina diagnóstica & Colaborar em Equipes Multidisciplinares.
--   Contribuir para a Saúde Pública do povo Angolano e do Mundo enterro.
-
-👜 Sou funcionária angolana, trabalhando no [Hospital Geral de Cabinda]() 💝. Anteriormente, colaborei na  [Clínica Maimona & Filhos](https://clinicamaimona.com/) 💚 da Província de Cabinda em Angola.
+👜 Sou funcionária angolana, trabalhando no [Hospital Geral de Cabinda]() 💝. Anteriormente, colaborei na [Clínica Maimona & Filhos](https://clinicamaimona.com/) 💚 da Província de Cabinda em Angola.
 
 Meu trabalho inclui o diagnóstico de doenças por meio de imagens, combinando minhas habilidades clínicas de médica geral. Analiso dados de imagens dos pacientes utilizando diversas ferramentas de software.
 
 Neste site, você encontrará minha lista de publicações, apresentações, meu CV e um blog técnico.
- 
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------

@@ -13,5 +13,8 @@
   },
   "blog.qmd": {
     "blog.html": "46c7f7b5"
+  },
+  "publication.qmd": {
+    "publication.html": "a413f0d3"
   }
 }
