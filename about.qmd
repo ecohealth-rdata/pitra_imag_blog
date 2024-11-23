@@ -2,11 +2,11 @@
 title: "Sobre mim"
 subtitle: |
   Médica, Imagiologista, & cinephile.
-image: pitrdr.png
+image: filpit_about.jpg
+  #id: edu-exp
 about:
-  id: edu-exp
-  template: solana
-  image-width: 20em
+  template: solana 
+  image-width: 12em
   image-shape: rectangle
   links:
     - icon: twitter
@@ -22,90 +22,113 @@ about:
       href: https://github.com
 grid:
     body-width: 1200px
-
-
 ---
 
-👋👋👋 Olá, sou **Filomena F. J. Pitra**,
+👋👋👋 Olá, sou **Filomena Pitra**,
 
-Sou Médica Interna em Imagiologia, com conhecimentos e competências para abordar pacientes com diversas patologias e realizar técnicas de diagnóstico e tratamento, tanto de menor quanto de maior complexidade, seja em caráter eletivo ou de urgência, em regime de ambulatório ou hospitalar.
-::: {#edu-exp}
+Sou médica geral, 😍**Residente em Imagiologia**😍, com conhecimentos e competências para abordar pacientes com diversas patologias e realizar técnicas de diagnóstico e tratamento, tanto de menor quanto de maior complexidade, seja em caráter eletivo ou de urgência🏣, em regime de ambulatório🚑 ou hospitalar 🏥.
+
+![](pitscan.jpg){.scan-pic .img-fluid weight="120" width="322"}
+
+:::::: {#bio-exp style="margin-bottom: 2rem;"}
+## 🎗️ BIO
+
+::::: grid
+::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
+Sou médica geral em especialização no departamento de imagiologia do **Hospital Geral de Cabinda**.
+
+![](HGC_logotipo.png){width="138"}
+
+Fiz meus estudos médios em Cabinda e completei 10 anos de **Universidade na Ucrânia** entre 2004 e 2014. Trabalhei na **Clínica Maimona** 💚 entre 2019 e 2022. Aqui, compartilho meus conhecimentos e experiências sobre medicina geral e, em particular, sobre imagiologia médica. Além disso, sou apaixonada por cozinhar e viajar. Falo português, ucraniano e russo.
 :::
 
-I am currently working as a consultant in __*Biostatistics*__ in the field of genetics, *i.e.*, proteomics, metabolomics, transcriptomics, *etc.* in Lille & Paris, France.  
-Additionally, I am also a __*freelance*__, available for hire to work on __*{{< iconify fa6-brands:r-project >}} and Quarto related projects*__.  
-I have developed a few {{< iconify fa6-brands:r-project >}}&nbsp;packages (_e.g._,&nbsp;[insane](https://github.com/mcanouil/insane), [NACHO](https://github.com/mcanouil/NACHO)), and although some are not very useful, they are most definitely entertaining (_i.e._,&nbsp;[ggpacman](https://github.com/mcanouil/ggpacman)).  
-I also enjoy watching movies (![](https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg){fig-alt="Movies seen count"}) and playing with {{< iconify fa6-brands:r-project >}} ([github.com/mcanouil/imdb-ratings](https://github.com/mcanouil/imdb-ratings)).
+::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
+![](images/clipboard-1602436437.png){.img-fluid fig-align="right" style="max-width: 213px;"}
+:::
+:::::
+::::::
 
-Have a look at my complete [_{{< iconify fa6-regular file-lines >}} curriculum vitae_](https://m.canouil.dev/curriculum-vitae/).
+:::::: {#background-exp style="margin-bottom: 2rem;"}
+## 💼 Background
 
-![](https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg){fig-alt="Movies seen in a movie theatre year streak"}
+::::: grid
+::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
+-   ***Especialização em Imagiologia***, **2022**\
+    *Hospital Geral de Cabinda, Angola*
 
-:::: {.grid}
+-   ***Experiência Médica*** na *Clínica Maimona & Filhos*, **2019 - 2022**\
+    *Clínica Maimona & Filhos de Cabinda, Angola*
 
-::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
-## Education
+-   ***MD.*** **Licenciatura, Medicina Geral**, **2010**\
+    *Universidade de Liev 1, Ucrânia*
 
-- **_Ph.D._ in Biostatistics**, **2017**  
-  *University of Lille, France*
-
-- **_M.Sc._ in Biostatistics, Bioinformatics and Genomics** (*Specialised in Biostatistics*), **2011**  
-  *University Claude Bernard Lyon 1, France*
-
-- **_B.Sc._ in Biology** (*Specialised in Biostatistics*), **2009**  
-  *University Claude Bernard Lyon 1, France*
+-   ***Diploma*** **em Biologia Matemática**, **2009**\
+    *Ensino médio em Cabinda, Angola*
 :::
 
-::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
-## Interests
+::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
+### Interesses
 
-- Watching Movies
-- Quarto
-- Multi-omics
-- Longitudinal Data
-- Data Analysis
-- Data Visualisation
-- Knowledge Sharing
-- Learning New Skills
+-   Cozinhar 🍕🍇🥥
+-   Viajar ✈️🚢🚅
+-   Medicina Geral 🤒🩺😷🤕
+-   Imagiologia Médica 👀🖥️🔆
+-   Aprendizado de Novas Línguas e Culturas 📑
+-   Compartilhamento de Conhecimento 📑
+:::
+:::::
+::::::
+
+:::::: {#backimage-exp style="margin-bottom: 2rem;"}
+## 💼 Background
+
+::::: grid
+::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
+![](pitrdr.png){fig-align="center" width="285"}
 :::
 
-::::
+::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
+![](mairap.png){fig-align="center" width="285"}
+:::
+:::::
+::::::
+
+Atualmente, estou no Departamento de Imagiologia no Hospital Geral de Cabinda, Angola, onde realizo a maior parte da minha formação, participando em reuniões científicas, cursos, comunicações e publicações, além de outras atividades de valorização profissional.
+
+![](imag_hgc.jpg){fig-align="center" width="434"}
 
 
+:::::: {#backimage-exp style="margin-bottom: 2rem;"}
+## 📌**Objectivos** :
 
+::::: grid
+::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
+![](pitrdr.png){fig-align="center" width="285"}Os meus objectivos são:
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Background                                                                                                                                                                                                                       |
-+==================================================================================================================================================================================================================================+
-| Atualmente, estou no Departamento de Imagiologia, onde realizo a maior parte da minha formação, participando em reuniões científicas, cursos, comunicações e publicações, além de outras atividades de valorização profissional. |
-|                                                                                                                                                                                                                                  |
-| 📌**Meus objectivos de especialização em Imagiologia são**:                                                                                                                                                                      |
-|                                                                                                                                                                                                                                  |
-| -   Aperfeiçoar Habilidades Diagnósticas: Desenvolver competências avançadas na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias.                                   |
-| -   Dominar Tecnologias de Imagem: Aprender a utilizar equipamentos de última geração para obter imagens médicas de alta qualidade.                                                                                              |
-| -   Conduzir Pesquisas Clínicas: Realizar pesquisas para melhorar as técnicas de imagem e contribuir para o avanço da medicina diagnóstica.                                                                                      |
-| -   Colaborar em Equipes Multidisciplinares: Trabalhar com outros profissionais de saúde para fornecer diagnósticos precisos e planejar tratamentos eficazes.                                                                    |
-| -   Aprimorar Técnicas Intervencionistas: Desenvolver habilidades em procedimentos intervencionistas guiados por imagem, como biópsias e drenagens.                                                                              |
-| -   Educação e Ensino: Participar na formação de novos médicos e técnicos, transmitindo conhecimentos e experiências adquiridos.                                                                                                 |
-| -   Publicações e Comunicações Científicas: Publicar estudos e participar de congressos para compartilhar descobertas e inovações.                                                                                               |
-| -   Contribuir para a Saúde Pública                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                  |
-| 💼 Objectivos                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                  |
-| Os objectivos desse blog são focados na saúde, especialemente em Imagiologia:                                                                                                                                                    |
-|                                                                                                                                                                                                                                  |
-| -   Discussão sobre as diagnósticas para desenvolver competências na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias.                                              |
-| -   Conversar sobre as Tecnologias de Imagem, equipamentos de última geração.                                                                                                                                                    |
-| -   Informar-se sobre publicações rescentes das pesquisas na saúde e especialement na imagiologia.                                                                                                                               |
-|                                                                                                                                                                                                                                  |
-| Estou aberto a trabalhos de consultoria e outras formas de colaboração. Se quiser discutir, envie-me um e-mail para mairapitra\@gmail.com.                                                                                       |
-|                                                                                                                                                                                                                                  |
-| Sou funcionária angolana, trabalhando no Hospital Geral de Cabinda. Anteriormente, colaborei na Clínica Maimona & Filhos.                                                                                                        |
-|                                                                                                                                                                                                                                  |
-| Meu trabalho inclui o diagnóstico de doenças por meio de imagens, combinando minhas habilidades clínicas de médica geral. Analiso dados de imagens dos pacientes utilizando diversas ferramentas de software.                    |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+-   perfeiçoar Habilidades Diagnósticas: Desenvolver competências avançadas na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias.
+-   Dominar Tecnologias de Imagem: Aprender a utilizar equipamentos de última geração para obter imagens médicas de alta qualidade.
+-   Conduzir Pesquisas Clínicas: Realizar pesquisas para melhorar as técnicas de imagem e contribuir para o avanço da medicina diagnóstica.
+-   Colaborar em Equipes Multidisciplinares: Trabalhar com outros profissionais de saúde para fornecer diagnósticos precisos e planejar tratamentos eficazes.
+-   Aprimorar Técnicas Intervencionistas: Desenvolver habilidades em procedimentos intervencionistas guiados por imagem, como biópsias e drenagens.
+-   Educação e Ensino: Participar na formação de novos médicos e técnicos, transmitindo conhecimentos e experiências adquiridos.
+-   Publicações e Comunicações Científicas: Publicar estudos e participar de congressos para compartilhar descobertas e inovações.
+-   Contribuir para a Saúde Pública
+:::
+::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
+![](filpit_drarelax-r.png){fig-align="right" width="153"}
+:::
+:::::
+::::::
 
+Aqui no blog, você encontrará:
 
+-   **Artigos:** Informações e análises sobre várias condições médicas, tecnologias em imagiologia e práticas de saúde geral.
+-   **Pesquisa:** Resumos e insights das últimas pesquisas científicas em imagiologia médica e medicina geral.
+-   **Ferramentas:** Recomendações de software e tecnologias úteis para profissionais de saúde e estudantes de medicina.
+-   **Livros:** Recursos e recomendações de leitura sobre medicina, imagiologia e saúde pública.
+-   **Galeria:** Imagens e estudos de casos clínicos de imagiologia, mostrando exemplos reais de diagnósticos e tratamentos.
 
+ 
 
-Neste site, você encontrará minha lista de publicações, apresentações, meu CV e um blog técnico.
+*Estous felize em receber suas sugestões para futuros artigos ou tutoriais. Para enviar uma sugestão, por favor, envie um e-mail para [mairapitra\@gmail.com](mairapitra@gmail.com).*
+ 

@@ -31,9 +31,9 @@ grid:
 ---
 
 ::: {.profile-header layout="[21,79]"}
-![](pitramaira.jpg){.profile-pic width="154"}
+![](filpit_blog.jpg){.profile-pic .img-fluid}
 
-Obrigada por tirar um tempo para visitar meu blog! Espero que você aproveite a leitura e encontre conteúdos inspiradores e interessantes aqui. Para mais informações sobre mim, siga este link: Sobre mim
+Obrigada por tirar um tempo para visitar meu blog! Espero que você aproveite a leitura e encontre conteúdos inspiradores e interessantes aqui. Para mais informações sobre mim, siga este link: [sobre mim](https://ecohealth_rdata.github.io/pitra_imag_blog/about).
 
 Olá! Eu sou o Dra. Filomena D.F.J Pitra.
 :::

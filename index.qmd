@@ -1,11 +1,11 @@
 ---
 title: "Filomena De Fátima J. Pitra MD."
 lang: en
-image: dr_pi_r.png 
+image: filpit_perfil-r.png
 lightbox: true
 about:
   template: solana  #marquee   #trestles  , jolla
-  image-width: 50em
+  image-width: 90em
   image-title: "Ucránia 2021"
   links:
     - icon: folder

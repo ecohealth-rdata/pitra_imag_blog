@@ -40,7 +40,11 @@ format:
     theme:
       light: quartz
       dark: darkly
+    css:
+      - styles.css
     lang: pt
     date-format: 'dddd[, the] Do [of] MMMM, YYYY'
     highlight-style: github-dark
+    meta:
+      viewport: "width=device-width, initial-scale=1"
 
