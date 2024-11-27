@@ -41,7 +41,7 @@ format:
       light: quartz
       dark: darkly
     css:
-      - styles.css
+      - styles.scss
     lang: pt
     date-format: 'dddd[, the] Do [of] MMMM, YYYY'
     highlight-style: github-dark

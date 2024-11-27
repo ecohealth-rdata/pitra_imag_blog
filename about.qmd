@@ -30,80 +30,95 @@ Sou médica geral, 😍**Residente em Imagiologia**😍, com conhecimentos e com
 
 ![](pitscan.jpg){.scan-pic .img-fluid weight="120" width="322"}
 
-:::::: {#bio-exp style="margin-bottom: 2rem;"}
-## 🎗️ BIO
-
-::::: grid
-::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
-Sou médica geral em especialização no departamento de imagiologia do **Hospital Geral de Cabinda**.
-
-![](HGC_logotipo.png){width="138"}
-
-Fiz meus estudos médios em Cabinda e completei 10 anos de **Universidade na Ucrânia** entre 2004 e 2014. Trabalhei na **Clínica Maimona** 💚 entre 2019 e 2022. Aqui, compartilho meus conhecimentos e experiências sobre medicina geral e, em particular, sobre imagiologia médica. Além disso, sou apaixonada por cozinhar e viajar. Falo português, ucraniano e russo.
+::: {#bio-exp .g-col-md-12 style="margin-bottom: 2rem; text-align: left;"}
+# 🎗️ BIO
 :::
+
+::: {.g-col-md-12 style="margin-bottom: 2rem; text-align: left;"}
+Sou médica geral em especialização no departamento de imagiologia do **Hospital Geral de Cabinda**.
+:::
+
+::: flex-container
+![](HGC_logotipo.png){alt="HGC_logotipo.png" style="margin-right: 10px;" width="244"}
+
+Fiz meus estudos médios em Cabinda e completei 10 anos de **Universidade na Ucrânia** entre 2004 e 2014. Trabalhei na **Clínica Maimona & Filhos** 💚 entre 2019 e 2022. Aqui, compartilho meus conhecimentos e experiências sobre medicina geral e, em particular, sobre imagiologia médica. Além disso, sou apaixonada por cozinhar e viajar. Falo português, ucraniano e russo.
+
+![](drafilpit-r.png){alt="drafilpit-r.png" width="520"}
+:::
+
+:::: flex-container
+![](angola_flag.png){alt="angola_flag.png" style="margin-right: 10px;" width="395"}
+
+Sou funcionária angolana, trabalhando no [Hospital Geral de Cabinda]() 💝.
+
+Meu trabalho inclui o diagnóstico de doenças por meio de imagens, combinando minhas habilidades clínicas de médica geral. Analiso dados de imagens dos pacientes utilizando diversas ferramentas de software.
 
 ::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
-![](images/clipboard-1602436437.png){.img-fluid fig-align="right" style="max-width: 213px;"}
 :::
-:::::
-::::::
+::::
 
-:::::: {#background-exp style="margin-bottom: 2rem;"}
-## 💼 Background
+::: flex-container
+# 💼 Background
+:::
 
-::::: grid
-::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
+::::::: flex-container
+## 👩‍🎓Contexto
+
+::: flex-container
 -   ***Especialização em Imagiologia***, **2022**\
     *Hospital Geral de Cabinda, Angola*
-
 -   ***Experiência Médica*** na *Clínica Maimona & Filhos*, **2019 - 2022**\
     *Clínica Maimona & Filhos de Cabinda, Angola*
-
 -   ***MD.*** **Licenciatura, Medicina Geral**, **2010**\
     *Universidade de Liev 1, Ucrânia*
-
 -   ***Diploma*** **em Biologia Matemática**, **2009**\
     *Ensino médio em Cabinda, Angola*
 :::
 
-::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
-### Interesses
+::::: flex-container
+## 💃Gostos 
 
+::: flex-container
 -   Cozinhar 🍕🍇🥥
+
 -   Viajar ✈️🚢🚅
+
 -   Medicina Geral 🤒🩺😷🤕
+
 -   Imagiologia Médica 👀🖥️🔆
+
 -   Aprendizado de Novas Línguas e Culturas 📑
+
 -   Compartilhamento de Conhecimento 📑
 :::
-:::::
-::::::
 
-:::::: {#backimage-exp style="margin-bottom: 2rem;"}
-## 💼 Background
-
-::::: grid
-::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
-![](pitrdr.png){fig-align="center" width="285"}
-:::
-
-::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
-![](mairap.png){fig-align="center" width="285"}
+::: flex-container
+![](images/clipboard-1602436437.png){.img-fluid fig-align="right" style="max-width: 240px;"}
 :::
 :::::
-::::::
+:::::::
 
-Atualmente, estou no Departamento de Imagiologia no Hospital Geral de Cabinda, Angola, onde realizo a maior parte da minha formação, participando em reuniões científicas, cursos, comunicações e publicações, além de outras atividades de valorização profissional.
+::: flex-container
+![](pitrdr.png){fig-align="center" width="332"} ![](mairap.png){fig-align="center" width="332"}
+:::
 
-![](imag_hgc.jpg){fig-align="center" width="434"}
+::: flex-container
+***Atualmente, estou no Departamento de Imagiologia no Hospital Geral de Cabinda, Angola, onde realizo a maior parte da minha formação, participando em reuniões científicas, cursos, comunicações e publicações, além de outras atividades de valorização profissional.***
+:::
 
+::: flex-container
+![](imag_hgc.jpg){fig-align="center" width="700"}
+:::
 
-:::::: {#backimage-exp style="margin-bottom: 2rem;"}
-## 📌**Objectivos** :
+::: flex-container
+# 📌**Objectivos** :
+:::
 
-::::: grid
+::::: flex-container
+
+:::: flex-container
 ::: {.g-col-12 .g-col-md-12 style="text-align: justify;"}
-![](pitrdr.png){fig-align="center" width="285"}Os meus objectivos são:
+Os meus objectivos são:
 
 -   perfeiçoar Habilidades Diagnósticas: Desenvolver competências avançadas na interpretação de imagens médicas, como radiografias, tomografias, ressonâncias magnéticas e ultrassonografias.
 -   Dominar Tecnologias de Imagem: Aprender a utilizar equipamentos de última geração para obter imagens médicas de alta qualidade.
@@ -114,21 +129,36 @@ Atualmente, estou no Departamento de Imagiologia no Hospital Geral de Cabinda, A
 -   Publicações e Comunicações Científicas: Publicar estudos e participar de congressos para compartilhar descobertas e inovações.
 -   Contribuir para a Saúde Pública
 :::
-::: {.g-col-12 .g-col-md-6 style="text-align: left;"}
-![](filpit_drarelax-r.png){fig-align="right" width="153"}
+::::
+:::::
+
+::: flex-container
+![](pitrdr.png){fig-align="center" width="586"}
+:::
+
+:::::: flex-container
+::::: flex-container
+::: {.g-col-12 .g-col-md-12 style="text-align: left;"}
+**Aqui neste blog, vôce encontrará:**
+
+-   **Artigos:** Informações e análises sobre várias condições médicas, tecnologias em imagiologia e práticas de saúde geral.
+
+-   **Pesquisa:** Resumos e insights das últimas pesquisas científicas em imagiologia médica e medicina geral.
+
+-   **Ferramentas:** Recomendações de software e tecnologias úteis para profissionais de saúde e estudantes de medicina.
+
+-   **Livros:** Recursos e recomendações de leitura sobre medicina, imagiologia e saúde pública.
+
+-   **Galeria:** Imagens e estudos de casos clínicos de imagiologia, mostrando exemplos reais de diagnósticos e tratamentos.
+:::
+
+::: {.g-col-12 .g-col-md-12 style="text-align: left;"}
+
+![](filpit_drarelax-r.png){fig-align="right" width="210"}
 :::
 :::::
 ::::::
 
-Aqui no blog, você encontrará:
-
--   **Artigos:** Informações e análises sobre várias condições médicas, tecnologias em imagiologia e práticas de saúde geral.
--   **Pesquisa:** Resumos e insights das últimas pesquisas científicas em imagiologia médica e medicina geral.
--   **Ferramentas:** Recomendações de software e tecnologias úteis para profissionais de saúde e estudantes de medicina.
--   **Livros:** Recursos e recomendações de leitura sobre medicina, imagiologia e saúde pública.
--   **Galeria:** Imagens e estudos de casos clínicos de imagiologia, mostrando exemplos reais de diagnósticos e tratamentos.
-
- 
-
+::: flex-container
 *Estous felize em receber suas sugestões para futuros artigos ou tutoriais. Para enviar uma sugestão, por favor, envie um e-mail para [mairapitra\@gmail.com](mairapitra@gmail.com).*
- 
+:::
